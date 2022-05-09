@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>我的全新 Hugo 网站</title>
+        <title>Cheng Blog</title>
         <link>http://example.org/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 09 May 2022 14:35:34 &#43;0800</lastBuildDate>
@@ -17,9 +17,9 @@
     <title>First_post</title>
     <link>http://example.org/posts/first_post/</link>
     <pubDate>Mon, 09 May 2022 10:08:29 &#43;0800</pubDate>
-    <author>作者</author>
+    <author>Cheng</author>
     <guid>http://example.org/posts/first_post/</guid>
-    <description><![CDATA[]]></description>
+    <description><![CDATA[h2 标题 fsdfoadsfsdjlfjasdl fsdfadsfsfdsfs fsafsd 让方法舒服 .fsfasdf fsdafjdslfkjadslkf sdfsdfasdfsd faslkfjdsa fsdfdsf fsafdsf fsdfas 323432 fsfsad Write the press release Update the website Contact the media 在这个例子中, &lt;section&gt;&lt;/section&gt; 会被包裹成 代码. 1 Sample text here... 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 grunt.initConfig({ assemble:]]></description>
 </item>
 </channel>
 </rss>
